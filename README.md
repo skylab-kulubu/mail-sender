@@ -74,7 +74,7 @@ Sayın {row['Name']} {row['LastName']},
 Bu bir test mesajıdır. SKY LAB Toplu e-posta gönderim aracını kullandığınız için teşekkür ederiz.
 
 Saygılarımızla,
-SkyLab Ekibi
+SKY LAB KULÜBÜ
 """
 ```
 
@@ -108,7 +108,7 @@ ayse@example.com adresine gönderildi.
 
 ---
 
-**SKY LAB: Bilgisayar Bilimleri Kulübü Ekibi**  
+**SKY LAB: Bilgisayar Bilimleri Kulübü**  
 📧 info@yildizskylab.com  
 🌐 [yildizskylab.com](https://yildizskylab.com)  
 
